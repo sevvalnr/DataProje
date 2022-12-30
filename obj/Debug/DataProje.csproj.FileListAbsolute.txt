@@ -1,0 +1,2 @@
+C:\Users\SEWAL\Desktop\dataproje\DataProje-master\DataProje\obj\Debug\DataProje.csproj.AssemblyReference.cache
+C:\Users\SEWAL\Desktop\dataproje\DataProje-master\DataProje\obj\Debug\DataProje.csproj.SuggestedBindingRedirects.cache
